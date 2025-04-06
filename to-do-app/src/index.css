@@ -57,3 +57,11 @@ footer {
   display: grid;
   place-content: center;
 }
+
+main ul{
+  list-style: none;
+}
+main .item svg{
+  color: red;
+  outline: none;
+}
