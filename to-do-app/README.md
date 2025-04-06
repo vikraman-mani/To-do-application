@@ -15,3 +15,5 @@ If you are developing a production application, we recommend using TypeScript an
 
 React-icons
 ![alt text](image.png)
+
+Controller Inputs ==> onChange= { }
